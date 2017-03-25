@@ -60,3 +60,6 @@ typings/
 #media files
 .h264
 .jpg
+
+#skip video output file
+video/
