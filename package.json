@@ -1,0 +1,24 @@
+{
+  "name": "goRasPro",
+  "version": "1.0.0",
+  "description": "Diy Action camera using the raspizeroW, It provides a web server mode to download images from camera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prudolph",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "ffmpeg": "0.0.4",
+    "handbrake-js": "^2.1.0",
+    "hbs": "^4.0.1",
+    "lodash": "^4.17.4",
+    "mime": "^1.3.4",
+    "mp4box": "^0.3.15",
+    "onoff": "^1.1.2",
+    "path": "^0.12.7",
+    "raspicam": "^0.2.13"
+  }
+}
