@@ -1,0 +1,16 @@
+{
+  "name": "camera",
+  "version": "1.0.0",
+  "description": "random preliminary tests before starting camera project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hellooo",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "raspicam": "^0.2.13"
+  },
+  "devDependencies": {}
+}
